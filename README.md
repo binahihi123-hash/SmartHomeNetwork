@@ -1,8 +1,8 @@
 # SmartHomeNetwork
 
-## B?ng Th?ng Kê Dóng Góp Thành Viên
+## Bang Thong Ke Dong Gop Thanh Vien
 
-| MSSV | H? và Tên | Công vi?c da th?c hi?n | Merge Requests |
+| MSSV | Ho và Ten | Cong viec da thuc hien | Merge Requests |
 | :--- | :--- | :--- | :--- |
-| 2380600149 | Ngô Gia B?o | Kh?i t?o c?u trúc d? án, thi?t l?p .gitignore | #1 |
-| 2380604721 | D? Dình Nguyên | Tìm hi?u d? án , vi?t báo cáo | #2 |
+| 2380600149 | Ngô Gia B?o | Khoi tao cau truc du an, thiet lap .gitignore | #1 |
+| 2380604721 | Đỗ Đình Nguyên | Tìm hi?u d? án , vi?t báo cáo | #2 |
