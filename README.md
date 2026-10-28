@@ -1,6 +1,5 @@
 # Markdown
 
-# \# ĐỒ ÁN CHUYÊN NGÀNH AN NINH MẠNG
 
 # 
 
